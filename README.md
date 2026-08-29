@@ -2,10 +2,11 @@
 
 An advanced, production-grade Python automation data pipeline that ingests raw business transaction ledgers, executes complex financial analytical modeling, and outputs a client-ready, fully-formatted Excel Executive Dashboard complete with corporate branding, styling, data charts, and dynamic performance metrics.
 
-<!-- Professional Badges -->
-[![Python Version](https://shields.io)](https://python.org)
-[![Data Framework](https://shields.io)](https://pydata.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
+<div>
+  <strong>💻 Runtime:</strong> Python 3.8+ &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>📊 Framework:</strong> Pandas Dataframe &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>📄 License:</strong> MIT
+</div>
 
 ## 💼 Core Architecture & Workflow
 * **`raw_sales_ledger.csv`:** The baseline comma-separated ledger file serving as the ingested unstructured corporate record pool.
