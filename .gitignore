@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Financial Data Outputs & Raw Sources
+Corporate_Financial_Dashboard.xlsx
+raw_sales_ledger.csv
+*.log
